@@ -18,7 +18,7 @@
               border-radius: 10px;
 }
 .img{    
-              background: url(/img.jpg);
+              background: url(./img.jpg);
               background-position: center;
               background-size: cover;
               border: 2px solid #fff;
